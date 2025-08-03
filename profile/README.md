@@ -1,1 +1,134 @@
-2025S Madcamp Week4
+> <h4>2025S KAIST 몰입캠프</h4>
+> <h4>Week 4 : 2025. 07. 24. ~ 2025. 07. 31.</h4>
+
+<br/>
+
+## 👥 Team Members
+<table>
+    <tr>
+      <td align="center" width="240">
+        <a href="https://github.com/lyeonj">
+          <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/81fbb069-eff2-4c8a-b2c5-eb55125e2f54" />
+          <br />
+        </a>
+      </td>
+      <td align="center" width="240">
+        <a href="https://github.com/braveseokyung">
+          <img width="120" height="120" alt="Image" src="https://github.com/user-attachments/assets/1f94658b-9d60-43c1-b608-3309bce01956" />
+          <br />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>이연재</b>
+      </td>
+      <td align="center">
+        <b>백서경</b>
+      </td>
+    </tr>
+  <tr>
+    <td align="center">
+      <p>숙명여대 IT공학전공</p>
+    </td>
+    <td align="center">
+      <p>고려대 데이터과학과</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 👀 Project Overview
+<img width="117" height="150" alt="Image" src="https://github.com/user-attachments/assets/f5e8caaf-bbc7-40d3-bce0-05cd8e275c11" />
+
+<img width="117" height="150" alt="Image" src="https://github.com/user-attachments/assets/9045b7ce-442d-4201-a059-e04911dbfab8" />
+
+<h3>FunGuess</h3>
+ㄴ AI와 함께 추리하는 라이어 게임!
+
+<br/>
+<br/>
+
+- 🎮 **실시간 멀티플레이** : WebSocket 통신으로 4인 동시 접속 및 실시간 게임 진행
+
+- 🎙️ **발언 분석** : Google STT를 통해 음성을 텍스트로 변환 후 Gemini API를 활용해 제시어와의 관련성 분석
+
+- 👁️ **눈 깜빡임 및 동공 움직임 감지** : MediaPipe를 활용해 눈 깜빡임 빈도와 동공의 움직임을 실시간으로 감지
+
+- 🕵 **투표 및 라이어 공개** : 투표 후 시민 승리 여부와 라이어를 공개한 뒤 라이어는 제시어 맞히기에 도전
+
+<br/>
+
+## ⚙ Tech Stack
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>AI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="240">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+      </td>
+      <td align="center" width="240">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      </td>
+      <td align="center" width="240">
+        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20STT-34A853?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MediaPipe-FE7C00?style=flat-square&logo=google&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+## 🚀 Deployment
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="240">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </td>
+      <td align="center" width="240">
+        <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DuckDNS-FFAA00?style=flat-square&logo=duckduckgo&logoColor=black"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+## 🌐 Web Preview
+**👤 Sign Up / Login**
+<table>
+    <tr>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/2e5f8877-3154-47d3-8ffe-a49238ccf2c2" />
+        </td>
+        <td width="380">
+            <img  width="350" alt="Image" src="https://github.com/user-attachments/assets/c6cf76c4-0ea0-4e99-9657-2b10cf4d3a5d" />
+        </td>
+    </tr>
+</table>
+
+<br />
+
+## 🔗 Design Resources & Reference
+🎨 <a href="https://www.figma.com/design/afk8UrG9HusvvaHoDvFc7s/2025S-Madcamp-Week-4---funguess?node-id=0-1&t=gyb06ozOdTwPDqS1-1" target="_blank">Figma</a>
