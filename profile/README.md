@@ -130,5 +130,64 @@
 
 <br />
 
-## 🔗 Design Resources & Reference
+**🕹️ Start or Join a Game**
+<table>
+    <tr>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/14f62a30-e40b-433c-9618-91c479a55f5e" />
+        </td>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/1ff645c7-698a-4da4-9e5f-0523b1e0877b" />
+        </td>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/892d8e23-5676-42b9-939b-5bb7e97b9bad" />
+        </td>
+    </tr>
+</table>
+
+<br />
+
+**🎭 Role and Keyword Reveal**
+<table>
+    <tr>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/101e25d1-aaa4-43da-b51a-60ce66015e25" />
+        </td>
+        <td width="380">
+            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/a3982e74-bdc8-4873-b320-1653f406c630" />
+        </td>
+    </tr>
+</table>
+
+<br />
+
+**🎮 Play**
+<table>
+    <tr>
+        <td width="380">
+            -
+        </td>
+        <td width="380">
+            -
+        </td>
+    </tr>
+</table>
+
+<br />
+
+**🔍 Vote and Reveal the Liar**
+<table>
+    <tr>
+        <td width="380">
+            -
+        </td>
+        <td width="380">
+            -
+        </td>
+    </tr>
+</table>
+
+<br />
+
+## 🔗 Design Resources
 🎨 <a href="https://www.figma.com/design/afk8UrG9HusvvaHoDvFc7s/2025S-Madcamp-Week-4---funguess?node-id=0-1&t=gyb06ozOdTwPDqS1-1" target="_blank">Figma</a>
