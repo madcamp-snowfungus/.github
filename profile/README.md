@@ -66,7 +66,7 @@
     <tr>
       <th>Frontend</th>
       <th>Backend</th>
-      <th>AI</th>
+      <th>API</th>
     </tr>
   </thead>
   <tbody>
@@ -119,11 +119,11 @@
 **👤 Sign Up / Login**
 <table>
     <tr>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/2e5f8877-3154-47d3-8ffe-a49238ccf2c2" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/2e5f8877-3154-47d3-8ffe-a49238ccf2c2" />
         </td>
-        <td width="380">
-            <img  width="350" alt="Image" src="https://github.com/user-attachments/assets/c6cf76c4-0ea0-4e99-9657-2b10cf4d3a5d" />
+        <td width="400">
+            <img  width="380" alt="Image" src="https://github.com/user-attachments/assets/c6cf76c4-0ea0-4e99-9657-2b10cf4d3a5d" />
         </td>
     </tr>
 </table>
@@ -133,14 +133,14 @@
 **🕹️ Start or Join a Game**
 <table>
     <tr>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/14f62a30-e40b-433c-9618-91c479a55f5e" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/14f62a30-e40b-433c-9618-91c479a55f5e" />
         </td>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/1ff645c7-698a-4da4-9e5f-0523b1e0877b" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/1ff645c7-698a-4da4-9e5f-0523b1e0877b" />
         </td>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/892d8e23-5676-42b9-939b-5bb7e97b9bad" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/892d8e23-5676-42b9-939b-5bb7e97b9bad" />
         </td>
     </tr>
 </table>
@@ -150,11 +150,11 @@
 **🎭 Role and Keyword Reveal**
 <table>
     <tr>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/101e25d1-aaa4-43da-b51a-60ce66015e25" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/101e25d1-aaa4-43da-b51a-60ce66015e25" />
         </td>
-        <td width="380">
-            <img width="350" alt="Image" src="https://github.com/user-attachments/assets/a3982e74-bdc8-4873-b320-1653f406c630" />
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/a3982e74-bdc8-4873-b320-1653f406c630" />
         </td>
     </tr>
 </table>
@@ -164,25 +164,58 @@
 **🎮 Play**
 <table>
     <tr>
-        <td width="380">
-            -
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/d96a5990-529f-4bde-b2be-952b3f8ca69a" />
         </td>
-        <td width="380">
-            -
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/65cc03b5-67e3-4293-9bad-f00d365f061e" />
+        </td>
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/8713931d-da47-471f-9f01-7304e637dc3c" />
         </td>
     </tr>
 </table>
 
 <br />
 
-**🔍 Vote and Reveal the Liar**
+**🔍 Result – Reveal the Liar**
+
+**✶ case 1: 시민들의 추리 성공**
 <table>
     <tr>
-        <td width="380">
-            -
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/a8ec3304-90e8-41c5-b084-173aec5e6680" />
         </td>
-        <td width="380">
-            -
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/afa1139f-f63e-441e-aad6-3b68159a291c" />
+        </td>
+    </tr>
+    <tr>
+        <td width="400">
+            라이어가 제시어를 맞힌 경우 ⤸
+        </td>
+        <td width="400">
+            라이어가 제시어를 맞히지 못한 경우 ⤸
+        </td>
+    </tr>
+    <tr>
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/451119a8-21eb-485d-bf41-cc832c28697b" />
+        </td>
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/d5ccec6c-cf0b-4911-a3cb-58971bc49b5c" />
+        </td>
+    </tr>
+</table>
+
+**✶ case 2: 시민들의 추리 실패**
+<table>
+    <tr>
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/a9af9a1b-bbe0-48c5-8f01-5d51d5a9d7e1" />
+        </td>
+        <td width="400">
+            <img width="380" alt="Image" src="https://github.com/user-attachments/assets/ec9b5203-d5bc-4b39-b3a6-96569b633515" />
         </td>
     </tr>
 </table>
